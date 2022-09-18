@@ -1,0 +1,54 @@
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/Larsseit/Larsseit-Bold.woff2") format("woff2"), url("../fonts/Larsseit/Larsseit-Bold.woff2") format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/Larsseit/Larsseit-Regular.woff2") format("woff2"), url("../fonts/Larsseit/Larsseit-Regular.woff2") format("woff");
+	font-display: swap;
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/Larsseit/Larsseit-Medium.woff2") format("woff2"), url("../fonts/Larsseit/Larsseit-Medium.woff2") format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Alumni+Sans+Pinstripe&family=Montserrat:wght@500;600;700&family=Rubik+Maze&display=swap');
+
+/* ------------------------------------------------------------------- */
+
+
+
+.first-part #first{
+	color: brown;
+}
+
+#second,#last{
+	color: red;
+}
+
+.main-part.topic{
+	font-family: "Larsseit";
+	color: aqua;
+}
+
+
+.test{
+	font-family:"Larsseit";
+	color: green;
+	font-weight: 700;
+}
+
+body{
+	font-family: "Montserrat";
+	font-weight: 500;
+	color: blueviolet;
+}
